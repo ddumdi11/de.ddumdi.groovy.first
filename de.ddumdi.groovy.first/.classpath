@@ -8,5 +8,7 @@
 	<classpathentry kind="con" path="GROOVY_DSL_SUPPORT"/>
 	<classpathentry kind="con" path="GROOVY_SUPPORT"/>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="GroovyTemplates"/>
+	<classpathentry kind="lib" path="GroovyTemplates/groovy-templates-3.0.8.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
